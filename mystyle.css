@@ -43,12 +43,3 @@ h1 {
 .row {
 	margin: 0 auto;
 }
-
-/* Override Mailchimp Styles */
-#mc_embed_signup form {
-	text-align: center!important;
-}
-
-#mc_embed_signup input {
-	border: none!important;
-}
