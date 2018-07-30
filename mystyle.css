@@ -1,0 +1,45 @@
+body, html {
+	height: 100%;
+}
+
+.all-caps {
+	text-transform: uppercase;
+}
+
+.my-lp-btn {
+	text-align: center;
+	color: #ffffff;
+	background-color: #a96e03;
+}
+
+.my-lp-btn:hover {
+	background-color: #ffa500;
+}
+
+#main-bg {
+	background-image: url('michal-kubalczyk-505207-unsplash.jpg');
+	height: 100%!important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+
+h1 {
+	font-family:'Josefin Sans', serif;
+	color: #ffffff;
+	transition: all 1s;
+}
+
+.pad-20 {
+	padding: 20px;
+	background: rgba(0, 0, 0, 0.7);
+	border-radius: 12px;
+}
+
+.row {
+	margin: 0 auto;
+}
